@@ -21,6 +21,15 @@ This application simulates a real-world e-commerce backend scenario where perfor
 * **DevOps:** Docker, Docker Compose
 * **Frontend:** EJS (Templating Engine), CSS3
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="image/home.png" alt="Home Page" width="90%">
+  <img src="image/login.png" alt="login Interface" width="90%">
+  <img src="image/register.png" alt="register Interface" width="90%">
+  <img src="image/cart.png" alt="cart Interface" width="90%">
+  <img src="image/checkout.png" alt="checkout Interface" width="90%">
+</p>
 
 ## 📦 Installation & Setup
 
